@@ -1,0 +1,32 @@
+            <WrapLayout [backgroundImage]="img" class="backgroungImage">
+            <StackLayout class="First-panel" height="150px"
+                [backgroundColor]="styleBackground" orientation="horizontal"
+                width="100%" (tap)="onPanelTap()">
+                <TextField [(ngModel)]="textFieldValue" color="black"
+                    hint="Enter City name..." *ngIf="display">
+                </TextField>
+                <Button text="Search" *ngIf="display" (tap)="onButtonTap()" color="white" backgroundColor="black">
+                </Button>
+                <!--Add your page content here-->
+                <Label textWrap="true" [text]="cityName"
+                    *ngIf="displayWeather" height="100px" width="500px"
+                    color="white" class="city-name">
+                </Label>
+                <Label textWrap="true" [text]="currentWeatherText"
+                    *ngIf="displayWeather" height="100px" color="white"
+                    class="currentWeatherText">
+                </Label>
+                <label text="&#176;" style='font-size:50px; color: white' *ngIf="displayWeather"></label>
+            </StackLayout>
+            <StackLayout class="first-panel-sub" orientation="horizontal"
+                width="100%" height="100px">
+                <Button text="Edit" (tap)="onPanelTap()"
+                    *ngIf="displayWeather"></Button>
+                <Label text="" width="120px" *ngIf="displayWeather"></Label>
+                <Label [text]="climate" *ngIf="displayWeather" color="white"
+                    width="180px"></Label>
+                <Label [text]="feelsLike" *ngIf="displayWeather"
+                    color="white"></Label>
+                <label text="&#176;" style='font-size:10px; color: white' *ngIf="displayWeather"></label>
+        </StackLayout>
+        </WrapLayout>
