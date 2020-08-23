@@ -18,26 +18,25 @@ This Application shows the Weather Forecast of different cities, the data has be
 
 ## Prerequisites  
 1. Install [Node.js®️](https://nodejs.org/en/download) and npm
-    
-      node -v 
-      
-      npm -v
+
+        node -v 
+        npm -v
      
 2. Install node packages and go to directory having package.json (cd /go/to/app/directory having package.json)
     
-      npm install
+       npm install
     
 3. Install the latest NativeScript CLI type the following command in a Command Prompt or Terminal.
     
-      npm install -g nativescript@latest
+       npm install -g nativescript@latest
       
 4. Install NativeScript Playground and NativeScript Preview Apps from Play Store(For Android) or App Store(For IOS)
 
-      [NativeScript Playground App For IOS] https://apps.apple.com/us/app/nativescript-playground/id1263543946?ls=1
-      [NativeScript Preview App For IOS] https://apps.apple.com/us/app/nativescript-preview/id1264484702
+       [NativeScript Playground App For IOS] https://apps.apple.com/us/app/nativescript-playground/id1263543946?ls=1
+       [NativeScript Preview App For IOS] https://apps.apple.com/us/app/nativescript-preview/id1264484702
       
-      [NativeScript Playground App For Android] https://play.google.com/store/apps/details?id=org.nativescript.play
-      [NativeScript Preview App For Android] https://play.google.com/store/apps/details?id=org.nativescript.preview
+       [NativeScript Playground App For Android] https://play.google.com/store/apps/details?id=org.nativescript.play
+       [NativeScript Preview App For Android] https://play.google.com/store/apps/details?id=org.nativescript.preview
   
  ## Running the Project
  Navigate to your project folder and run the following command to start previewing your app.
