@@ -1,6 +1,6 @@
 # WeatherApp
 Weather Forecast Application
-This Application shows the Weather Forecast of different cities, the data has been collected from Open Weather Map API.
+This Application shows the Weather Forecast of different cities, the data has been collected from Open Weather Map API.The whole Application is developed using NativeScript with Angular.
 
 ## App features
 1. The app consists of a list of panels. Initially, all panels would be empty. Each panel is separated by a marginal line. Each panel shows the Weather data of one city.
