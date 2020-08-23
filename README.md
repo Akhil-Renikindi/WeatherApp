@@ -44,3 +44,8 @@ This Application shows the Weather Forecast of different cities, the data has be
        tns preview
        
        Scan the QRCode with NativeScript Playground App
+       
+ ### Project Looks Like
+ 
+ Opening the App
+        <image src="C:\Users\Akhil\Desktop\WeatherAp\Output\1.jpg" width="300px" height="500px"/>
