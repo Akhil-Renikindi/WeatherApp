@@ -46,6 +46,6 @@ This Application shows the Weather Forecast of different cities, the data has be
        Scan the QRCode with NativeScript Playground App
        
  ### Project Looks Like
- 
- Opening the App
-        <image src="C:\Users\Akhil\Desktop\WeatherAp\Output\1.jpg" width="300px" height="500px"/>
+        <a target="blank" href="C:\Users\Akhil\Desktop\WeatherAp\Output\1.jpg" rel="">
+        <image src="C:\Users\Akhil\Desktop\WeatherAp\Output\1.jpg" width="300px" height="500px" style="max-width:100%;"/>
+        </a>
