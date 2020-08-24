@@ -52,4 +52,4 @@ This Application shows the Weather Forecast of different cities, the data has be
        
  ## App Looks Like
  
-        <img src="" width="200" height="400"/>
+        <img src="https://github.com/Akhil8424/WeatherApp/blob/master/src/images/1.jpeg" width="200" height="400"/>
