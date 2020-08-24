@@ -49,3 +49,7 @@ This Application shows the Weather Forecast of different cities, the data has be
        tns preview
        
        Scan the QRCode with NativeScript Playground App
+       
+ ## App Looks Like
+ 
+        <img src="" width="200" height="400"/>
