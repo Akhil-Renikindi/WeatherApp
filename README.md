@@ -11,10 +11,8 @@ This Application shows the Weather Forecast of different cities, the data has be
 
 4. If there is an error like wrong city name or no city name entered,the panel shows the error and the user can re-enter the city name.
 
-5. Every panel shows the city name, Temperature( in celsius), Climatic condition and has a background picture that describes the climate at the city(eg. clouds, rain, clear)
-
 ## App Features
-1. Background picture that describes the current climate at the city.
+1. Background picture that describes the current climate at the city (eg. rain, clear, clouds).
 
 2. Edit option for every panel to change the city.
 
