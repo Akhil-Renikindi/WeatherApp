@@ -53,4 +53,4 @@ This Application shows the Weather Forecast of different cities, the data has be
  ## App Looks Like
  
         On opening the App:
-        ![1](https://user-images.githubusercontent.com/42890617/91013760-c86c7f00-e605-11ea-93ed-1bb814e3276f.jpeg)
+        ![](src/images/1.jpeg)
