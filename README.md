@@ -53,4 +53,19 @@ This Application shows the Weather Forecast of different cities, the data has be
  ## App Looks Like
  
   On opening the App: <br>
-  ![](src/images/1.jpeg)
+  <img src="src/images/1.jpeg" width="200px" height="400px">
+  <br><br>
+  Clicking on any panel:<br>
+  <img src="src/images/2.jpeg" width="200px" height="400px">
+  <br>
+  <img src="src/images/3.jpeg" width="200px" height="400px">
+  <br><br>
+  Enter the city name and click on search button:<br>
+  <img src="src/images/4.jpeg" width="200px" height="400px">
+  <br><br>
+  Clicking on Edit Button:<br>
+  <img src="src/images/6.jpeg" width="200px" height="400px">
+  <br><br>
+  Final Output Looks Like:<br>
+  <img src="src/images/7.jpeg" width="200px" height="400px">
+
