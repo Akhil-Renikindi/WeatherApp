@@ -49,6 +49,14 @@ This Application shows the Weather Forecast of different cities, the data has be
        tns preview
        
        Scan the QRCode with NativeScript Playground App
+   
+ ## Inside the code
+ 
+ 1. The code contains two components PanelComponent and WeatherHomeComponent, which were present in AppComponent inside src.
+ 
+ 2. WeatherHome Component is the Home page of the Application which contains List of Panels.
+ 
+ 3.PanelComponent Contains the code for each Panel which shows details of each city
        
  ## App Looks Like
  
